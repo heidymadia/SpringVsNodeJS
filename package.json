@@ -1,0 +1,27 @@
+{
+  "name": "springvsnodejs",
+  "version": "1.0.0",
+  "description": "NodeJS version of this web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heidymadia/SpringVsNodeJS.git"
+  },
+  "keywords": [
+    "spring",
+    "vs",
+    "nodejs"
+  ],
+  "author": "heidy madia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heidymadia/SpringVsNodeJS/issues"
+  },
+  "homepage": "https://github.com/heidymadia/SpringVsNodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
